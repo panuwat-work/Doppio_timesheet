@@ -1,5 +1,5 @@
 # Doppio_timesheet
-## Goal of this code
+## Goal of this project
 - Eliminate the need for manual timesheet entry on a daily basis.
 
 ## Features
