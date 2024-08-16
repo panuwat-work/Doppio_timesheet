@@ -8,7 +8,6 @@
 - Ability to input half-day leave into the timesheet.
 
 ## Untested Functions
-- Leave half day on sick leave.
 - Leave full day on vacation leave.
 - Leave half day on vacation leave.
 
