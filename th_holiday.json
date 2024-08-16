@@ -1,0 +1,1033 @@
+{
+    "meta": {
+        "code": 200
+    },
+    "response": {
+        "holidays": [
+            {
+                "name": "New Year's Day",
+                "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-01-01",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 1
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/new-year-day",
+                "urlid": "thailand/new-year-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "National Children's Day",
+                "description": "National Children's Day is a observance in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-01-13",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 13
+                    }
+                },
+                "type": [
+                    "Observance"
+                ],
+                "primary_type": "Observance",
+                "canonical_url": "https://calendarific.com/holiday/thailand/childrens-day",
+                "urlid": "thailand/childrens-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Teachers' Day",
+                "description": "Teachers' Day is a observance in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-01-16",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 16
+                    }
+                },
+                "type": [
+                    "Observance"
+                ],
+                "primary_type": "Observance",
+                "canonical_url": "https://calendarific.com/holiday/thailand/teachers-day",
+                "urlid": "thailand/teachers-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Lunar New Year's Day",
+                "description": "Lunar New Year is the first day of the Chinese calendar, which is a lunisolar calendar mainly used for traditional celebrations.",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-02-10",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 10
+                    }
+                },
+                "type": [
+                    "Observance"
+                ],
+                "primary_type": "Observance",
+                "canonical_url": "https://calendarific.com/holiday/thailand/lunar-new-year-day",
+                "urlid": "thailand/lunar-new-year-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Second Day of Lunar New Year",
+                "description": "Second Day of Lunar New Year is a observance in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-02-11",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 11
+                    }
+                },
+                "type": [
+                    "Observance"
+                ],
+                "primary_type": "Observance",
+                "canonical_url": "https://calendarific.com/holiday/thailand/second-day-of-lunar-new-year",
+                "urlid": "thailand/second-day-of-lunar-new-year",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Third Day of Lunar New Year",
+                "description": "Third Day of Lunar New Year is a observance in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-02-12",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 12
+                    }
+                },
+                "type": [
+                    "Observance"
+                ],
+                "primary_type": "Observance",
+                "canonical_url": "https://calendarific.com/holiday/thailand/third-day-of-lunar-new-year",
+                "urlid": "thailand/third-day-of-lunar-new-year",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Valentine's Day",
+                "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-02-14",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 14
+                    }
+                },
+                "type": [
+                    "Observance"
+                ],
+                "primary_type": "Observance",
+                "canonical_url": "https://calendarific.com/holiday/th/valentine-day",
+                "urlid": "th/valentine-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Makha Bucha",
+                "description": "Magha Puja Day is an important holy day that honors the Sangha, or the Buddhist community on the first full moon day of the third lunar month.",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-02-24",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 24
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/makha-bucha",
+                "urlid": "thailand/makha-bucha",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Day off for Makha Bucha",
+                "description": "Magha Puja Day is an important holy day that honors the Sangha, or the Buddhist community on the first full moon day of the third lunar month.",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-02-26",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 26
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/makha-bucha",
+                "urlid": "thailand/makha-bucha",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "March Equinox",
+                "description": "March Equinox in Thailand (Bangkok)",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-03-20T10:06:28+07:00",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 20,
+                        "hour": 10,
+                        "minute": 6,
+                        "second": 28
+                    },
+                    "timezone": {
+                        "offset": "+07:00",
+                        "zoneabb": "ICT",
+                        "zoneoffset": 25200,
+                        "zonedst": 0,
+                        "zonetotaloffset": 25200
+                    }
+                },
+                "type": [
+                    "Season"
+                ],
+                "primary_type": "Season",
+                "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+                "urlid": "seasons/vernal-equinox",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Chakri Day",
+                "description": "Chakri Day is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-04-06",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 6
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/chakri-day",
+                "urlid": "thailand/chakri-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Day off for Chakri Day",
+                "description": "Chakri Day is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-04-08",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 8
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/chakri-day",
+                "urlid": "thailand/chakri-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Songkran Holiday",
+                "description": "Songkran Holiday is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-04-12",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 12
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/songkran-holiday",
+                "urlid": "thailand/songkran-holiday",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Songkran",
+                "description": "Songkran is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-04-13",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 13
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/songkran-day-1",
+                "urlid": "thailand/songkran-day-1",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Songkran Holiday",
+                "description": "Songkran Holiday is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-04-14",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 14
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/songkran-day-2",
+                "urlid": "thailand/songkran-day-2",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Songkran Holiday",
+                "description": "Songkran Holiday is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-04-15",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 15
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/songkran-day-3",
+                "urlid": "thailand/songkran-day-3",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Songkran Observed",
+                "description": "Songkran Observed is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-04-16",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 16
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/songkran-day",
+                "urlid": "thailand/songkran-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Labor Day",
+                "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-05-01",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 1
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "Bank holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/labor-day",
+                "urlid": "thailand/labor-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Coronation Day",
+                "description": "Coronation Day is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-05-04",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 4
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/coronation-day",
+                "urlid": "thailand/coronation-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Day off for Coronation Day",
+                "description": "Coronation Day is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-05-06",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 6
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/coronation-day",
+                "urlid": "thailand/coronation-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Royal Ploughing Ceremony Day",
+                "description": "Royal Ploughing Ceremony Day is a government holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-05-06",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 6
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "Government Holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/royal-ploughing-ceremony",
+                "urlid": "thailand/royal-ploughing-ceremony",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Visakha Bucha",
+                "description": "Visakha Bucha is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-05-22",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 22
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/visakha-bucha",
+                "urlid": "thailand/visakha-bucha",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Queen Suthida's Birthday",
+                "description": "Queen Suthida's Birthday is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-06-03",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 3
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/queen-sutida-birthday",
+                "urlid": "thailand/queen-sutida-birthday",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "June Solstice",
+                "description": "June Solstice in Thailand (Bangkok)",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-06-21T03:50:59+07:00",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 21,
+                        "hour": 3,
+                        "minute": 50,
+                        "second": 59
+                    },
+                    "timezone": {
+                        "offset": "+07:00",
+                        "zoneabb": "ICT",
+                        "zoneoffset": 25200,
+                        "zonedst": 0,
+                        "zonetotaloffset": 25200
+                    }
+                },
+                "type": [
+                    "Season"
+                ],
+                "primary_type": "Season",
+                "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+                "urlid": "seasons/june-solstice",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Buddhist Lent Day",
+                "description": "Buddhist Lent Day is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-07-20",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 20
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/buddhist-lent-day",
+                "urlid": "thailand/buddhist-lent-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Day off for Buddhist Lent Day",
+                "description": "Buddhist Lent Day is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-07-22",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 22
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/buddhist-lent-day",
+                "urlid": "thailand/buddhist-lent-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "King Vajiralongkorn's Birthday",
+                "description": "King Vajiralongkorn's Birthday is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-07-28",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 28
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/king-vajiralongkorn-birthday",
+                "urlid": "thailand/king-vajiralongkorn-birthday",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Day off for King Vajiralongkorn's Birthday",
+                "description": "King Vajiralongkorn's Birthday is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-07-29",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 29
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/king-vajiralongkorn-birthday",
+                "urlid": "thailand/king-vajiralongkorn-birthday",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "The Queen's Birthday",
+                "description": "The Queen's Birthday is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-08-12",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 12
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/queen-birthday",
+                "urlid": "thailand/queen-birthday",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "September Equinox",
+                "description": "September Equinox in Thailand (Bangkok)",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-09-22T19:43:33+07:00",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 9,
+                        "day": 22,
+                        "hour": 19,
+                        "minute": 43,
+                        "second": 33
+                    },
+                    "timezone": {
+                        "offset": "+07:00",
+                        "zoneabb": "ICT",
+                        "zoneoffset": 25200,
+                        "zonedst": 0,
+                        "zonetotaloffset": 25200
+                    }
+                },
+                "type": [
+                    "Season"
+                ],
+                "primary_type": "Season",
+                "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+                "urlid": "seasons/autumnal-equniox",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Anniversary of the Death of King Bhumibol",
+                "description": "Anniversary of the Death of King Bhumibol is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-10-13",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 13
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/anniversary-death-king-bhumibol",
+                "urlid": "thailand/anniversary-death-king-bhumibol",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Day off for Anniversary of the Death of King Bhumibol",
+                "description": "Anniversary of the Death of King Bhumibol is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-10-14",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 14
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/anniversary-death-king-bhumibol",
+                "urlid": "thailand/anniversary-death-king-bhumibol",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Chulalongkorn Day",
+                "description": "Chulalongkorn Day is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-10-23",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 23
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/chulalongkorn-day",
+                "urlid": "thailand/chulalongkorn-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Halloween",
+                "description": "Halloween is a festive occasion that is celebrated in many countries on October 31 each year.",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-10-31",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 31
+                    }
+                },
+                "type": [
+                    "Observance"
+                ],
+                "primary_type": "Observance",
+                "canonical_url": "https://calendarific.com/holiday/thailand/halloween",
+                "urlid": "thailand/halloween",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "King Bhumibol's Birthday/Father's Day",
+                "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-12-05",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 5
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/fathers-day",
+                "urlid": "thailand/fathers-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Constitution Day",
+                "description": "Constitution Day is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-12-10",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 10
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/constitution-day",
+                "urlid": "thailand/constitution-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "December Solstice",
+                "description": "December Solstice in Thailand (Bangkok)",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-12-21T16:20:34+07:00",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 21,
+                        "hour": 16,
+                        "minute": 20,
+                        "second": 34
+                    },
+                    "timezone": {
+                        "offset": "+07:00",
+                        "zoneabb": "ICT",
+                        "zoneoffset": 25200,
+                        "zonedst": 0,
+                        "zonetotaloffset": 25200
+                    }
+                },
+                "type": [
+                    "Season"
+                ],
+                "primary_type": "Season",
+                "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+                "urlid": "seasons/december-solstice",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Christmas Eve",
+                "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-12-24",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 24
+                    }
+                },
+                "type": [
+                    "Observance"
+                ],
+                "primary_type": "Observance",
+                "canonical_url": "https://calendarific.com/holiday/thailand/christmas-eve",
+                "urlid": "thailand/christmas-eve",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Christmas Day",
+                "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-12-25",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 25
+                    }
+                },
+                "type": [
+                    "Observance"
+                ],
+                "primary_type": "Observance",
+                "canonical_url": "https://calendarific.com/holiday/thailand/christmas-day",
+                "urlid": "thailand/christmas-day",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "New Year Special Holiday",
+                "description": "New Year Special Holiday is a national holiday in Thailand",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-12-30",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 30
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/new-year-holiday",
+                "urlid": "thailand/new-year-holiday",
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "New Year's Eve",
+                "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+                "country": {
+                    "id": "th",
+                    "name": "Thailand"
+                },
+                "date": {
+                    "iso": "2024-12-31",
+                    "datetime": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 31
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "primary_type": "National holiday",
+                "canonical_url": "https://calendarific.com/holiday/thailand/new-year-eve",
+                "urlid": "thailand/new-year-eve",
+                "locations": "All",
+                "states": "All"
+            }
+        ]
+    }
+}
