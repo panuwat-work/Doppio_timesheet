@@ -1,0 +1,358 @@
+{
+    "data": [
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e49\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e17\u0e33 outsource nimble \u0e41\u0e1a\u0e1a\u0e23\u0e32\u0e22\u0e40\u0e14\u0e37\u0e2d\u0e19/\u0e23\u0e30\u0e22\u0e30\u0e22\u0e32\u0e27",
+            "id": 1,
+            "name": "KMA Outsource automation (Billable)",
+            "project_group_id": 1
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a lead /manager /pm \u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19 nimble outsource",
+            "id": 2,
+            "name": "KMA outsource management (Non Billable)",
+            "project_group_id": 1
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e49\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e17\u0e33 outsource makro \u0e41\u0e1a\u0e1a\u0e23\u0e32\u0e22\u0e40\u0e14\u0e37\u0e2d\u0e19/\u0e23\u0e30\u0e22\u0e30\u0e22\u0e32\u0e27",
+            "id": 3,
+            "name": "Makro Automation Outsource (Billable)",
+            "project_group_id": 2
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a \u0e19\u0e49\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e17\u0e33 makro mandays automation",
+            "id": 5,
+            "name": "Makro mandays automation (Billable)",
+            "project_group_id": 3
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a lead /manager /pm \u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19 makro mandays",
+            "id": 6,
+            "name": "Makro mandays management (Non Billable)",
+            "project_group_id": 3
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e49\u0e2d\u0e07\u0e46 \u0e17\u0e35\u0e48\u0e17\u0e33\u0e07\u0e32\u0e19 SCG automation mandays",
+            "id": 7,
+            "name": "SCG automation mandays (Billable) ",
+            "project_group_id": 4
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a lead /manager /pm \u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19 scg automation mandays",
+            "id": 8,
+            "name": "SCG mandays management (Non Billable)",
+            "project_group_id": 4
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e49\u0e2d\u0e07\u0e46 \u0e17\u0e35\u0e48\u0e17\u0e33\u0e07\u0e32\u0e19 Gosoft automation mandays",
+            "id": 9,
+            "name": "Gosoft automation mandays (Billable) ",
+            "project_group_id": 5
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a lead /manager /pm \u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19 Gosoft automation mandays",
+            "id": 10,
+            "name": "Gosoft mandays management (Non Billable)",
+            "project_group_id": 5
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e49\u0e2d\u0e07\u0e46 \u0e17\u0e35\u0e48\u0e17\u0e33\u0e07\u0e32\u0e19 Card X ",
+            "id": 11,
+            "name": "SCB Card X automation POC (Non Billable)",
+            "project_group_id": 6
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a lead /manager /pm \u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19 Card X",
+            "id": 12,
+            "name": "SCB Card X automation management (Non Billable)",
+            "project_group_id": 6
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e49\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e17\u0e33 SMS ascend ",
+            "id": 13,
+            "name": "Ascend SMS (Billable) ",
+            "project_group_id": 7
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a lead /manager /pm \u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19 SMS",
+            "id": 14,
+            "name": "Ascend SMS project management (Non Billable)",
+            "project_group_id": 7
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e49\u0e2d\u0e07\u0e46 \u0e17\u0e35\u0e48\u0e17\u0e33 Lotus automation",
+            "id": 15,
+            "name": "Lotus outsource automation (Billable) ",
+            "project_group_id": 8
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e49\u0e2d\u0e07\u0e46 \u0e17\u0e35\u0e48\u0e17\u0e33 AYCAP automation",
+            "id": 17,
+            "name": "AYCAP automation (Billable)",
+            "project_group_id": 9
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a lead /manager /pm \u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19 AYCAP ",
+            "id": 18,
+            "name": "AYCAP automation management (Non Billable)",
+            "project_group_id": 9
+        },
+        {
+            "description": "\u0e25\u0e32\u0e1b\u0e48\u0e27\u0e22",
+            "id": 19,
+            "name": "Sick leave",
+            "project_group_id": 10
+        },
+        {
+            "description": "\u0e25\u0e32\u0e2b\u0e22\u0e38\u0e14 \u0e42\u0e14\u0e22\u0e43\u0e0a\u0e49 vacation",
+            "id": 20,
+            "name": "Vacation leave",
+            "project_group_id": 10
+        },
+        {
+            "description": "training \u0e15\u0e48\u0e32\u0e07\u0e46 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e1e\u0e31\u0e12\u0e19\u0e32\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e02\u0e2d\u0e07\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07",
+            "id": 21,
+            "name": "Internal training",
+            "project_group_id": 10
+        },
+        {
+            "description": "\u0e27\u0e31\u0e19\u0e2b\u0e22\u0e38\u0e14",
+            "id": 22,
+            "name": "Public holiday",
+            "project_group_id": 10
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e25\u0e32\u0e41\u0e1a\u0e1a\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e04\u0e48\u0e32\u0e08\u0e49\u0e32\u0e07 \u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32 manager \u0e01\u0e48\u0e2d\u0e19 log task \u0e19\u0e35\u0e49",
+            "id": 23,
+            "name": "Leave without pay",
+            "project_group_id": 10
+        },
+        {
+            "description": "\u0e2a\u0e31\u0e21\u0e20\u0e32\u0e29\u0e13\u0e4c candidate (only lead / manager)",
+            "id": 24,
+            "name": "Interview candidate",
+            "project_group_id": 10
+        },
+        {
+            "description": "\u0e1b\u0e23\u0e30\u0e0a\u0e38\u0e21\u0e17\u0e35\u0e21 \u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e40\u0e08\u0e32\u0e30\u0e08\u0e07\u0e42\u0e1b\u0e23\u0e40\u0e08\u0e04 \u0e40\u0e0a\u0e48\u0e19 3pm meeting , lead meeting",
+            "id": 25,
+            "name": "Doppio team meeting",
+            "project_group_id": 10
+        },
+        {
+            "description": "\u0e40\u0e02\u0e49\u0e32 1-1 \u0e01\u0e31\u0e1a manager , manager \u0e17\u0e33 1-1 ",
+            "id": 26,
+            "name": "1-1 session",
+            "project_group_id": 10
+        },
+        {
+            "description": "training \u0e15\u0e48\u0e32\u0e07\u0e46 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e1e\u0e31\u0e12\u0e19\u0e32\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e02\u0e2d\u0e07\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07",
+            "id": 27,
+            "name": "Internal training",
+            "project_group_id": 10
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e49\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e17\u0e33 ptvn sourcing automation",
+            "id": 28,
+            "name": "Ascend PTVN sourcing automation (Billable)",
+            "project_group_id": 11
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a lead /manager /pm \u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19 PTVN sourcing ",
+            "id": 29,
+            "name": "Ascend PTVN sourcing automation management (Non Billable)",
+            "project_group_id": 11
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e49\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e17\u0e33 CJ automation",
+            "id": 30,
+            "name": "CJ automation implementation (Billable)",
+            "project_group_id": 12
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a lead /manager /pm \u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19 CJ automation",
+            "id": 31,
+            "name": "CJ automation management (Non Billable)",
+            "project_group_id": 12
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e49\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e17\u0e33 CPTMS",
+            "id": 32,
+            "name": "Ascend CPTMS outsource automation (Billable)",
+            "project_group_id": 13
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a lead /manager /pm \u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19 CPTMS",
+            "id": 33,
+            "name": "Ascend CPTMS automation management (Non Billable)",
+            "project_group_id": 13
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e49\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e17\u0e33 bitarzza automation POC ",
+            "id": 34,
+            "name": "Bitarzza automation POC implementation (Non Billable)",
+            "project_group_id": 14
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a lead /manager /pm \u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19 Bitarzza automation POC",
+            "id": 35,
+            "name": "Bitarzza automation management (Non Billable)",
+            "project_group_id": 14
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e49\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e17\u0e33 EVMe outsource",
+            "id": 36,
+            "name": "EVME outsource automation (Billable)",
+            "project_group_id": 15
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a lead /manager /pm \u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19 EVME outsource",
+            "id": 37,
+            "name": "EVME outsource management (Non Billable)",
+            "project_group_id": 15
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a flow account \u0e2b\u0e25\u0e31\u0e07\u0e40\u0e23\u0e34\u0e48\u0e21\u0e42\u0e1b\u0e23\u0e40\u0e08\u0e04\u0e08\u0e23\u0e34\u0e07\u0e41\u0e25\u0e49\u0e27",
+            "id": 39,
+            "name": "Flow account automation (Billable)",
+            "project_group_id": 16
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a flow account manager/lead/pm",
+            "id": 40,
+            "name": "Flow account management (Non billable)",
+            "project_group_id": 16
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a lead /manager /pm \u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19 Lotus ",
+            "id": 16,
+            "name": "Lotus outsource automation management (Non Billable) ",
+            "project_group_id": 8
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a manager \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e17\u0e33 tech improvement ",
+            "id": 41,
+            "name": "Manager - team technical improvement (Non billable)",
+            "project_group_id": 10
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a lead /manager /pm \u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19 makro outsource",
+            "id": 4,
+            "name": "Makro outsource automation management (Non Billable)",
+            "project_group_id": 2
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e43\u0e04\u0e23\u0e01\u0e47\u0e15\u0e32\u0e21\u0e17\u0e35\u0e48 \u0e40\u0e17\u0e23\u0e19\u0e19\u0e34\u0e48\u0e07\u0e43\u0e2b\u0e49\u0e1d\u0e31\u0e48\u0e07 service",
+            "id": 42,
+            "name": "Mentor for service team automation learning (Non billable)",
+            "project_group_id": 10
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e07\u0e32\u0e19 implement lotus automation framework",
+            "id": 43,
+            "name": "Lotus automation framework implementation (Billable)",
+            "project_group_id": 17
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a manage automation framework lotus 2023",
+            "id": 44,
+            "name": "Lotus automation framework management (Non Billable)",
+            "project_group_id": 17
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e07\u0e32\u0e19 estimation and explore BTZ performance stress Freedom world app",
+            "id": 46,
+            "name": "Bitazza performance test POC and estimation (Non billable)",
+            "project_group_id": 18
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e07\u0e32\u0e19 management \u0e02\u0e2d\u0e07 bitazza performance test poc",
+            "id": 47,
+            "name": "Bitazza performance test POC management (Non billable)",
+            "project_group_id": 18
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e25\u0e32\u0e44\u0e1b\u0e07\u0e32\u0e19\u0e28\u0e1e",
+            "id": 48,
+            "name": "Funeral leave",
+            "project_group_id": 10
+        },
+        {
+            "description": null,
+            "id": 49,
+            "name": "Sansiri automation pre-project ",
+            "project_group_id": 19
+        },
+        {
+            "description": "\u0e40\u0e15\u0e23\u0e35\u0e22\u0e21 present \u0e15\u0e48\u0e32\u0e07\u0e46 \u0e40\u0e1e\u0e37\u0e48\u0e2d acquite ",
+            "id": 51,
+            "name": "Home credit automation poc (Non billable)",
+            "project_group_id": 21
+        },
+        {
+            "description": "\u0e40\u0e15\u0e23\u0e35\u0e22\u0e21 present \u0e15\u0e48\u0e32\u0e07\u0e46 \u0e40\u0e1e\u0e37\u0e48\u0e2d acquite ",
+            "id": 50,
+            "name": "BAY Project demo preparation  (Non billable)",
+            "project_group_id": 20
+        },
+        {
+            "description": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e49\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e17\u0e33 outsource nimble \u0e41\u0e1a\u0e1a\u0e23\u0e32\u0e22\u0e40\u0e14\u0e37\u0e2d\u0e19/\u0e23\u0e30\u0e22\u0e30\u0e22\u0e32\u0e27",
+            "id": 52,
+            "name": "ABeam automation POC (Non billable)",
+            "project_group_id": 22
+        },
+        {
+            "description": null,
+            "id": 53,
+            "name": "Doppio Infra",
+            "project_group_id": 10
+        },
+        {
+            "description": null,
+            "id": 54,
+            "name": "Dev internal training",
+            "project_group_id": 10
+        },
+        {
+            "description": null,
+            "id": 55,
+            "name": "Doppio Product",
+            "project_group_id": 10
+        },
+        {
+            "description": null,
+            "id": 56,
+            "name": "Lotus POS management",
+            "project_group_id": 23
+        },
+        {
+            "description": null,
+            "id": 57,
+            "name": "PTT outsource management (Non billable)",
+            "project_group_id": 24
+        },
+        {
+            "description": null,
+            "id": 58,
+            "name": "PTT outsource (billable)",
+            "project_group_id": 24
+        },
+        {
+            "description": null,
+            "id": 59,
+            "name": "BTZ outsource (Billable)",
+            "project_group_id": 25
+        },
+        {
+            "description": null,
+            "id": 60,
+            "name": "BTZ outsource management (Non billable)",
+            "project_group_id": 25
+        },
+        {
+            "description": null,
+            "id": 61,
+            "name": "KMA Nimble revamp (Billable)",
+            "project_group_id": 26
+        }
+    ]
+}
