@@ -21,7 +21,7 @@ with open('projectId.json') as file:
 with open('th_holiday.json') as file:
     holiday_data = json.load(file)
 
-with open('credential.json') as file:
+with open('my_credential.json') as file:
     credential_data = json.load(file)
 
 project_id = credential_data["project_id"]
