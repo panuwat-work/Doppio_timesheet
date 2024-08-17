@@ -79,7 +79,7 @@ if name:
                     }
                 ]
             }
-            print(f"{date.strftime('%A %d-%m-%Y')} : Holiday")
+            print(f"{date.strftime('%A %d-%m-%Y')} : Public holiday")
         elif i < len(leave_dict):
             date_str = date.strftime('%d-%m-%Y')
             if any(leave == date_str for leave in leave_dict):
