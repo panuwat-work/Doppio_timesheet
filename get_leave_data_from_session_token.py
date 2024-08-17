@@ -2,6 +2,7 @@ import datetime
 import json
 import requests
 from lxml import html
+import base64
 
 with open('projectId.json') as file:
     data = json.load(file)
@@ -46,10 +47,14 @@ if name:
         }
 
     url = 'https://timesheet.doppio-tech.com/api/save_timesheet'
-    headers = {
-        'token': credential_data['doppio_session_token'],
-    }
 
+    encoded_string = credential_data['doppio_email'] 
+    encoded_string = base64.b64encode(encoded_string.encode("utf-8"))
+    encode_token = encoded_string.decode("utf-8")
+
+    headers = {
+        'token': encode_token,
+    }
     current_date = datetime.date.today()
 
     start_date = current_date - datetime.timedelta(days=current_date.weekday())
