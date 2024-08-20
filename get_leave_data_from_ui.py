@@ -21,7 +21,7 @@ with open('projectId.json') as file:
 with open('th_holiday.json') as file:
     holiday_data = json.load(file)
 
-with open('my_credential.json') as file:
+with open('credential.json') as file:
     credential_data = json.load(file)
 
 project_id = credential_data["project_id"]
@@ -151,7 +151,7 @@ if name:
                             ]
                         }
                         print(f"{date.strftime('%A %d-%m-%Y')} : Sick leave 0.5 day / {project_name} 0.5 day")
-                elif leave_dict[date_str]['leave_type'] == 'ลาพักร้อน / Annual Leave':
+                elif leave_dict[date_str]['leave_type'] == 'ลาพักร้อน / Vacation leave':
                     if leave_dict[date_str]['leave_amount'] == '1':
                         data = {
                             'date': date_str,
@@ -163,7 +163,7 @@ if name:
                                 }
                             ]
                         }
-                        print(f"{date.strftime('%A %d-%m-%Y')} : Annual Leave")
+                        print(f"{date.strftime('%A %d-%m-%Y')} : Vacation leave")
                     elif leave_dict[date_str]['leave_amount'] == '0.5':
                         data = {
                             "date": date_str,
@@ -180,7 +180,7 @@ if name:
                                 }
                             ]
                         }
-                        print(f"{date.strftime('%A %d-%m-%Y')} : Annual Leave 0.5 day / {project_name} 0.5 day")
+                        print(f"{date.strftime('%A %d-%m-%Y')} : Vacation leave 0.5 day / {project_name} 0.5 day")
             else:
                 data = {
                     'date': date_str,
