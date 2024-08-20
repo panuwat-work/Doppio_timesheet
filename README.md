@@ -1,4 +1,4 @@
-# Doppio_timesheet
+# One click doppio timesheet
 ## Goal of this project
 - Eliminate the need for manual timesheet entry on a daily basis.
 
