@@ -20,8 +20,18 @@
 ## Holiday API
 TH holiday data is retrieved from [calendarific.com](https://calendarific.com).
 
-## Installation Requirements
-To install the necessary dependencies, use the following command:
-```
-pip install -r requirements.txt
-```
+## Precautions
+- Ensure that your leave history within the last 5 entries does not include leaves of 2 days or more, as this will cause the script to malfunction.
+
+## Usage
+To use this project, follow these steps:
+1. Clone the repository to your local machine.
+2. Install the necessary dependencies by running the following command:
+    ```
+    pip install -r requirements.txt
+    ```
+3. Configure the project settings by editing the `config.py` file.
+4. Run the script using the command:
+    ```
+    python timesheet.py
+    ```
