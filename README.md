@@ -33,5 +33,5 @@ To use this project, follow these steps:
 3. Configure the project settings by editing the `config.py` file.
 4. Run the script using the command:
     ```
-    python timesheet.py
+    python get_leave_data_from_session_token.py
     ```
